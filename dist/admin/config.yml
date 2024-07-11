@@ -18,7 +18,7 @@ slug:
   sanitize_replacement: "-"
 media_folder: "static/images/uploads"
 media_library:
-  name: uploadcare
+  name: cloudinary
 
 collections:
   - label: "Pages"
