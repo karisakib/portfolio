@@ -1,0 +1,1734 @@
+[
+  {
+    "sections": [
+      {
+        "section": "Design",
+        "resources": [
+          {
+            "title": "Design Resource 1",
+            "url": "link",
+            "description": "Description of Design Resource 1"
+          },
+          {
+            "title": "Design Resource 2",
+            "url": "link",
+            "description": "Description of Design Resource 2"
+          },
+          {
+            "title": "Design Resource 3",
+            "url": "link",
+            "description": "Description of Design Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "HTML",
+        "resources": [
+          {
+            "title": "HTML Resource 1",
+            "url": "link",
+            "description": "Description of HTML Resource 1"
+          },
+          {
+            "title": "HTML Resource 2",
+            "url": "link",
+            "description": "Description of HTML Resource 2"
+          },
+          {
+            "title": "HTML Resource 3",
+            "url": "link",
+            "description": "Description of HTML Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "CSS",
+        "resources": [
+          {
+            "title": "CSS Resource 1",
+            "url": "link",
+            "description": "Description of CSS Resource 1"
+          },
+          {
+            "title": "CSS Resource 2",
+            "url": "link",
+            "description": "Description of CSS Resource 2"
+          },
+          {
+            "title": "CSS Resource 3",
+            "url": "link",
+            "description": "Description of CSS Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "JavaScript",
+        "resources": [
+          {
+            "title": "C0D3",
+            "url": "https://www.c0d3.com/",
+            "description": "JavaScript learning platform"
+          },
+          {
+            "title": "JavaScript.info",
+            "url": "https://javascript.info",
+            "description": "Comprehensive guide to JavaScript"
+          },
+          {
+            "title": "MDN JavaScript Reference",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+            "description": "JavaScript reference on MDN"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "TypeScript",
+        "resources": [
+          {
+            "title": "TypeScript Resource 1",
+            "url": "link",
+            "description": "Description of TypeScript Resource 1"
+          },
+          {
+            "title": "TypeScript Resource 2",
+            "url": "link",
+            "description": "Description of TypeScript Resource 2"
+          },
+          {
+            "title": "TypeScript Resource 3",
+            "url": "link",
+            "description": "Description of TypeScript Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Eloquent JavaScript",
+            "url": "link",
+            "description": "Description of Eloquent JavaScript"
+          }
+        ]
+      },
+      {
+        "section": "React",
+        "resources": [
+          {
+            "title": "React Official Website",
+            "url": "https://react.dev/",
+            "description": "Official React documentation"
+          },
+          {
+            "title": "React Cheat Sheet",
+            "url": "https://devhints.io/react",
+            "description": "React cheat sheet"
+          },
+          {
+            "title": "React Cheat Sheets",
+            "url": "https://cheatsheets.zip/react",
+            "description": "Collection of React cheat sheets"
+          },
+          {
+            "title": "Frontend Mentor",
+            "url": "https://www.frontendmentor.io",
+            "description": "Frontend challenges and resources"
+          },
+          {
+            "title": "BigFrontend.dev",
+            "url": "https://bigfrontend.dev/",
+            "description": "Frontend coding challenges"
+          },
+          {
+            "title": "Reacterry",
+            "url": "https://www.reacterry.com/",
+            "description": "React tutorials and resources"
+          },
+          {
+            "title": "ReactPractice.dev",
+            "url": "https://reactpractice.dev/",
+            "description": "React practice projects"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "NextJS",
+        "resources": [
+          {
+            "title": "NextJS Resource 1",
+            "url": "link",
+            "description": "Description of NextJS Resource 1"
+          },
+          {
+            "title": "NextJS Resource 2",
+            "url": "link",
+            "description": "Description of NextJS Resource 2"
+          },
+          {
+            "title": "NextJS Resource 3",
+            "url": "link",
+            "description": "Description of NextJS Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Express",
+        "resources": [
+          {
+            "title": "Express Resource 1",
+            "url": "link",
+            "description": "Description of Express Resource 1"
+          },
+          {
+            "title": "Express Resource 2",
+            "url": "link",
+            "description": "Description of Express Resource 2"
+          },
+          {
+            "title": "Express Resource 3",
+            "url": "link",
+            "description": "Description of Express Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "MongoDB",
+        "resources": [
+          {
+            "title": "MongoDB Resource 1",
+            "url": "link",
+            "description": "Description of MongoDB Resource 1"
+          },
+          {
+            "title": "MongoDB Resource 2",
+            "url": "link",
+            "description": "Description of MongoDB Resource 2"
+          },
+          {
+            "title": "MongoDB Resource 3",
+            "url": "link",
+            "description": "Description of MongoDB Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Python",
+        "resources": [
+          {
+            "title": "Reflex",
+            "url": "https://reflex.dev/",
+            "description": "Python web development framework"
+          },
+          {
+            "title": "Wave",
+            "url": "https://wave.h2o.ai/",
+            "description": "Python for AI and ML"
+          },
+          {
+            "title": "Solara",
+            "url": "https://solara.dev/",
+            "description": "Python data apps"
+          },
+          {
+            "title": "Full Stack Python",
+            "url": "https://www.fullstackpython.com/",
+            "description": "Python full stack resources"
+          },
+          {
+            "title": "FutureCoder",
+            "url": "https://futurecoder.io/",
+            "description": "Interactive Python tutorials"
+          },
+          {
+            "title": "CalmCode",
+            "url": "https://calmcode.io/",
+            "description": "Python coding tutorials"
+          },
+          {
+            "title": "Python for Data Analysis",
+            "url": "https://wesmckinney.com/book/",
+            "description": "Book on Python data analysis"
+          },
+          {
+            "title": "Cosmic Python",
+            "url": "https://www.cosmicpython.com/book/preface.html",
+            "description": "Python for software design"
+          },
+          {
+            "title": "DataPen",
+            "url": "https://www.datapen.io/",
+            "description": "Python data science platform"
+          },
+          {
+            "title": "Wagtail",
+            "url": "https://wagtail.org/",
+            "description": "Python CMS"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "FastAPI",
+        "resources": [
+          {
+            "title": "FastAPI Resource 1",
+            "url": "link",
+            "description": "Description of FastAPI Resource 1"
+          },
+          {
+            "title": "FastAPI Resource 2",
+            "url": "link",
+            "description": "Description of FastAPI Resource 2"
+          },
+          {
+            "title": "FastAPI Resource 3",
+            "url": "link",
+            "description": "Description of FastAPI Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "SQL",
+        "resources": [
+          {
+            "title": "SQL Resource 1",
+            "url": "link",
+            "description": "Description of SQL Resource 1"
+          },
+          {
+            "title": "SQL Resource 2",
+            "url": "link",
+            "description": "Description of SQL Resource 2"
+          },
+          {
+            "title": "SQL Resource 3",
+            "url": "link",
+            "description": "Description of SQL Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "APIs",
+        "resources": [
+          {
+            "title": "API Resource 1",
+            "url": "link",
+            "description": "Description of API Resource 1"
+          },
+          {
+            "title": "API Resource 2",
+            "url": "link",
+            "description": "Description of API Resource 2"
+          },
+          {
+            "title": "API Resource 3",
+            "url": "link",
+            "description": "Description of API Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "NodeJS",
+        "resources": [
+          {
+            "title": "NodeJS Resource 1",
+            "url": "link",
+            "description": "Description of NodeJS Resource 1"
+          },
+          {
+            "title": "NodeJS Resource 2",
+            "url": "link",
+            "description": "Description of NodeJS Resource 2"
+          },
+          {
+            "title": "NodeJS Resource 3",
+            "url": "link",
+            "description": "Description of NodeJS Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "NestJS",
+        "resources": [
+          {
+            "title": "NestJS Resource 1",
+            "url": "link",
+            "description": "Description of NestJS Resource 1"
+          },
+          {
+            "title": "NestJS Resource 2",
+            "url": "link",
+            "description": "Description of NestJS Resource 2"
+          },
+          {
+            "title": "NestJS Resource 3",
+            "url": "link",
+            "description": "Description of NestJS Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "System Design",
+        "resources": [
+          {
+            "title": "System Design Resource 1",
+            "url": "link",
+            "description": "Description of System Design Resource 1"
+          },
+          {
+            "title": "System Design Resource 2",
+            "url": "link",
+            "description": "Description of System Design Resource 2"
+          },
+          {
+            "title": "System Design Resource 3",
+            "url": "link",
+            "description": "Description of System Design Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Fonts",
+        "resources": [
+          {
+            "title": "Fonts Resource 1",
+            "url": "link",
+            "description": "Description of Fonts Resource 1"
+          },
+          {
+            "title": "Fonts Resource 2",
+            "url": "link",
+            "description": "Description of Fonts Resource 2"
+          },
+          {
+            "title": "Fonts Resource 3",
+            "url": "link",
+            "description": "Description of Fonts Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Colors",
+        "resources": [
+          {
+            "title": "Happy Hues",
+            "url": "https://www.happyhues.co/",
+            "description": "Color palette inspiration"
+          },
+          {
+            "title": "Realtime Colors",
+            "url": "https://www.realtimecolors.com/?colors=dbf9ff-00262e-b7412a-614100-fe2f74&fonts=Poppins-Poppins",
+            "description": "Realtime color palette generator"
+          },
+          {
+            "title": "Huemint",
+            "url": "https://huemint.com/",
+            "description": "AI-generated color palettes"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Dev Tools",
+        "resources": [
+          {
+            "title": "Dev Tools Resource 1",
+            "url": "link",
+            "description": "Description of Dev Tools Resource 1"
+          },
+          {
+            "title": "Dev Tools Resource 2",
+            "url": "link",
+            "description": "Description of Dev Tools Resource 2"
+          },
+          {
+            "title": "Dev Tools Resource 3",
+            "url": "link",
+            "description": "Description of Dev Tools Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Libraries",
+        "resources": [
+          {
+            "title": "Libraries Resource 1",
+            "url": "link",
+            "description": "Description of Libraries Resource 1"
+          },
+          {
+            "title": "Libraries Resource 2",
+            "url": "link",
+            "description": "Description of Libraries Resource 2"
+          },
+          {
+            "title": "Libraries Resource 3",
+            "url": "link",
+            "description": "Description of Libraries Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Images",
+        "resources": [
+          {
+            "title": "Images Resource 1",
+            "url": "link",
+            "description": "Description of Images Resource 1"
+          },
+          {
+            "title": "Images Resource 2",
+            "url": "link",
+            "description": "Description of Images Resource 2"
+          },
+          {
+            "title": "Images Resource 3",
+            "url": "link",
+            "description": "Description of Images Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Data Analysis",
+        "resources": [
+          {
+            "title": "Data Analysis Resource 1",
+            "url": "link",
+            "description": "Description of Data Analysis Resource 1"
+          },
+          {
+            "title": "Data Analysis Resource 2",
+            "url": "link",
+            "description": "Description of Data Analysis Resource 2"
+          },
+          {
+            "title": "Data Analysis Resource 3",
+            "url": "link",
+            "description": "Description of Data Analysis Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Data Science",
+        "resources": [
+          {
+            "title": "Data Science Resource 1",
+            "url": "link",
+            "description": "Description of Data Science Resource 1"
+          },
+          {
+            "title": "Data Science Resource 2",
+            "url": "link",
+            "description": "Description of Data Science Resource 2"
+          },
+          {
+            "title": "Data Science Resource 3",
+            "url": "link",
+            "description": "Description of Data Science Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Machine Learning",
+        "resources": [
+          {
+            "title": "Machine Learning Resource 1",
+            "url": "link",
+            "description": "Description of Machine Learning Resource 1"
+          },
+          {
+            "title": "Machine Learning Resource 2",
+            "url": "link",
+            "description": "Description of Machine Learning Resource 2"
+          },
+          {
+            "title": "Machine Learning Resource 3",
+            "url": "link",
+            "description": "Description of Machine Learning Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "AI",
+        "resources": [
+          {
+            "title": "AI Resource 1",
+            "url": "link",
+            "description": "Description of AI Resource 1"
+          },
+          {
+            "title": "AI Resource 2",
+            "url": "link",
+            "description": "Description of AI Resource 2"
+          },
+          {
+            "title": "AI Resource 3",
+            "url": "link",
+            "description": "Description of AI Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Blogs",
+        "resources": [
+          {
+            "title": "Blogs Resource 1",
+            "url": "link",
+            "description": "Description of Blogs Resource 1"
+          },
+          {
+            "title": "Blogs Resource 2",
+            "url": "link",
+            "description": "Description of Blogs Resource 2"
+          },
+          {
+            "title": "Blogs Resource 3",
+            "url": "link",
+            "description": "Description of Blogs Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Deployment",
+        "resources": [
+          {
+            "title": "Render",
+            "url": "https://render.com",
+            "description": "Cloud application hosting"
+          },
+          {
+            "title": "Railway",
+            "url": "https://railway.app",
+            "description": "Cloud deployment platform"
+          },
+          {
+            "title": "Surge",
+            "url": "https://surge.sh",
+            "description": "Static web publishing"
+          },
+          {
+            "title": "Cyclic",
+            "url": "https://www.cyclic.sh",
+            "description": "Serverless cloud functions"
+          },
+          {
+            "title": "Fly.io",
+            "url": "https://fly.io",
+            "description": "Global application hosting"
+          },
+          {
+            "title": "Vercel",
+            "url": "https://vercel.com/",
+            "description": "Frontend cloud platform"
+          },
+          {
+            "title": "DigitalOcean",
+            "url": "https://www.digitalocean.com",
+            "description": "Cloud infrastructure"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "CI/CD",
+        "resources": [
+          {
+            "title": "CI/CD Resource 1",
+            "url": "link",
+            "description": "Description of CI/CD Resource 1"
+          },
+          {
+            "title": "CI/CD Resource 2",
+            "url": "link",
+            "description": "Description of CI/CD Resource 2"
+          },
+          {
+            "title": "CI/CD Resource 3",
+            "url": "link",
+            "description": "Description of CI/CD Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "HTML Emails",
+        "resources": [
+          {
+            "title": "Unlayer",
+            "url": "https://unlayer.com",
+            "description": "HTML email builder"
+          },
+          {
+            "title": "MJML",
+            "url": "https://mjml.io",
+            "description": "Responsive email framework"
+          },
+          {
+            "title": "Mailchimp Templates",
+            "url": "https://templates.mailchimp.com/development/",
+            "description": "Email design templates"
+          },
+          {
+            "title": "Litmus",
+            "url": "https://www.litmus.com/email-gallery",
+            "description": "Email testing and analytics"
+          },
+          {
+            "title": "Campaign Monitor",
+            "url": "https://www.campaignmonitor.com/css/",
+            "description": "Email design resources"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Building Docs",
+        "resources": [
+          {
+            "title": "Docusaurus",
+            "url": "https://docusaurus.io/",
+            "description": "Documentation website generator"
+          },
+          {
+            "title": "MkDocs Material",
+            "url": "https://squidfunk.github.io/mkdocs-material/",
+            "description": "Material design for MkDocs"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Quality Assurance",
+        "resources": [
+          {
+            "title": "Quality Assurance Resource 1",
+            "url": "link",
+            "description": "Description of Quality Assurance Resource 1"
+          },
+          {
+            "title": "Quality Assurance Resource 2",
+            "url": "link",
+            "description": "Description of Quality Assurance Resource 2"
+          },
+          {
+            "title": "Quality Assurance Resource 3",
+            "url": "link",
+            "description": "Description of Quality Assurance Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Testing",
+        "resources": [
+          {
+            "title": "Locust",
+            "url": "https://locust.io/",
+            "description": "Load testing tool"
+          },
+          {
+            "title": "K6",
+            "url": "https://k6.io/",
+            "description": "Performance testing tool"
+          },
+          {
+            "title": "Artillery",
+            "url": "https://www.artillery.io/",
+            "description": "Load testing and smoke testing"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Automation",
+        "resources": [
+          {
+            "title": "Pylenium",
+            "url": "https://docs.pylenium.io/",
+            "description": "Python testing framework"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "AWS",
+        "resources": [
+          {
+            "title": "AWS Resource 1",
+            "url": "link",
+            "description": "Description of AWS Resource 1"
+          },
+          {
+            "title": "AWS Resource 2",
+            "url": "link",
+            "description": "Description of AWS Resource 2"
+          },
+          {
+            "title": "AWS Resource 3",
+            "url": "link",
+            "description": "Description of AWS Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "GraphQL",
+        "resources": [
+          {
+            "title": "GraphQL Resource 1",
+            "url": "link",
+            "description": "Description of GraphQL Resource 1"
+          },
+          {
+            "title": "GraphQL Resource 2",
+            "url": "link",
+            "description": "Description of GraphQL Resource 2"
+          },
+          {
+            "title": "GraphQL Resource 3",
+            "url": "link",
+            "description": "Description of GraphQL Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Data Structures",
+        "resources": [
+          {
+            "title": "Data Structures Resource 1",
+            "url": "link",
+            "description": "Description of Data Structures Resource 1"
+          },
+          {
+            "title": "Data Structures Resource 2",
+            "url": "link",
+            "description": "Description of Data Structures Resource 2"
+          },
+          {
+            "title": "Data Structures Resource 3",
+            "url": "link",
+            "description": "Description of Data Structures Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Algorithms",
+        "resources": [
+          {
+            "title": "Algorithms Resource 1",
+            "url": "link",
+            "description": "Description of Algorithms Resource 1"
+          },
+          {
+            "title": "Algorithms Resource 2",
+            "url": "link",
+            "description": "Description of Algorithms Resource 2"
+          },
+          {
+            "title": "Algorithms Resource 3",
+            "url": "link",
+            "description": "Description of Algorithms Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Coding Practice",
+        "resources": [
+          {
+            "title": "Coding Practice Resource 1",
+            "url": "link",
+            "description": "Description of Coding Practice Resource 1"
+          },
+          {
+            "title": "Coding Practice Resource 2",
+            "url": "link",
+            "description": "Description of Coding Practice Resource 2"
+          },
+          {
+            "title": "Coding Practice Resource 3",
+            "url": "link",
+            "description": "Description of Coding Practice Resource 3"
+          }
+        ],
+        "books": [
+          {
+            "title": "Cracking the Coding Interview",
+            "url": "link",
+            "description": "Description of Cracking the Coding Interview"
+          }
+        ]
+      },
+      {
+        "section": "UX/UI",
+        "resources": [
+          {
+            "title": "Kickass UX",
+            "url": "https://www.kickassux.com",
+            "description": "UX design resources"
+          },
+          {
+            "title": "UXcel",
+            "url": "https://uxcel.com",
+            "description": "Learn UX/UI design"
+          },
+          {
+            "title": "NNGroup",
+            "url": "https://www.nngroup.com",
+            "description": "Nielsen Norman Group"
+          },
+          {
+            "title": "UI/UX Design Curriculum",
+            "url": "https://cooperative-polyanthus-850.notion.site/UI-UX-Design-Curriculum-9642aa6351e642d3a4a0d8b17995c443",
+            "description": "Notion UI/UX design curriculum"
+          },
+          {
+            "title": "Best Design Hub",
+            "url": "https://bestdesignhub.com/collection/ux-books/",
+            "description": "Collection of UX books"
+          },
+          {
+            "title": "Facebook Research",
+            "url": "https://research.facebook.com/publications/research-area/human-computer-interaction-and-ux/?s",
+            "description": "Facebook UX research publications"
+          },
+          {
+            "title": "UX Tools",
+            "url": "https://uxtools.co",
+            "description": "UX tools and resources"
+          },
+          {
+            "title": "IDEO Design Thinking",
+            "url": "https://designthinking.ideo.com",
+            "description": "IDEO design thinking"
+          },
+          {
+            "title": "QoQo",
+            "url": "https://qoqo.ai",
+            "description": "AI design tools"
+          },
+          {
+            "title": "The Gymnasium",
+            "url": "https://www.thegymnasium.com/courses",
+            "description": "Free UX/UI courses"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "CMS",
+        "resources": [
+          {
+            "title": "Wagtail",
+            "url": "https://wagtail.org/",
+            "description": "Python-based CMS"
+          },
+          {
+            "title": "CraftCMS",
+            "url": "https://craftcms.com",
+            "description": "Content management system"
+          },
+          {
+            "title": "Webiny",
+            "url": "https://www.webiny.com",
+            "description": "Serverless CMS"
+          },
+          {
+            "title": "Strapi",
+            "url": "https://strapi.io",
+            "description": "Headless CMS"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Mobile Dev",
+        "resources": [
+          {
+            "title": "Flutter",
+            "url": "https://flutter.dev",
+            "description": "UI toolkit for mobile, web, and desktop"
+          },
+          {
+            "title": "React Native",
+            "url": "https://reactnative.dev",
+            "description": "Framework for building native apps"
+          },
+          {
+            "title": "Mobile Navigation",
+            "url": "https://www.justinmind.com/blog/mobile-navigation/",
+            "description": "Best practices for mobile navigation"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Design Systems",
+        "resources": [
+          {
+            "title": "Zendesk Garden",
+            "url": "https://garden.zendesk.com/",
+            "description": "Zendesk Design System"
+          },
+          {
+            "title": "Hashicorp Helios",
+            "url": "https://helios.hashicorp.design/",
+            "description": "Hashicorp Design System"
+          },
+          {
+            "title": "Shopify Polaris",
+            "url": "https://polaris.shopify.com/",
+            "description": "Shopify Design System"
+          }
+        ],
+        "books": [
+          {
+            "title": "Laws of UX: Using Psychology to Design Better Products & Services",
+            "url": "https://www.amazon.com/Laws-UX-Psychology-Products-Services-dp-1098146964/dp/1098146964/ref=dp_ob_title_bk",
+            "description": "Laws of UX based on human psychology."
+          },
+          {
+            "title": "How Design Makes Us Think: And Feel and Do Things",
+            "url": "https://www.amazon.com/How-Design-Makes-Us-Think-ebook/dp/B08Q6K1BM2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.UDyTxd_DsonGg4ayPdzbk_Zk8eIMauIe6hlBh8RgwaYSi1JKrIUZLWu_upC9xrvTHB5bv0_9IELrRFtu4xXlGvVfqYkGJB6KmxRouhBUnYrKYbWh030kT45us_NtE_9_Eia-Rtx1CJc0UMMG1Hzpkk-cdHGsdNilQz0hXB5gq_1_kFFr8LGlgIr9ru2tR2sk9iLbro-KFooO2CCkEcRRiDr5--TT4V1aJHHRYegA1lq7E09XjRnsOklwnovivPCOiSksK0hHE6mVPCKQ9qcYSwGET84ForOlGz0yN5hVBpE.vSAHEqW0vl1hdgwYK-5c6PeowwuSd9-qvISIQ0I9MbI&dib_tag=se&keywords=us+design&qid=1721172791&sr=8-2",
+            "description": "Laws of UX based on human psychology."
+          },
+          {
+            "title": "Introduction to Design Thinking for UX Beginners",
+            "url": "https://www.amazon.com/Introduction-Design-Thinking-Beginners-Experience/dp/B0BYM4LZ6Y/ref=sr_1_1_sspa?crid=1NXPPWH9YUMS2&dib=eyJ2IjoiMSJ9.TqZ6k5OOpHsdyYi_3C_VaW3EIXOOu8e0n0cgU6_3pVWFT5VfK036rO6qKLMK-NMcb855F-S94hL_HUB9vxosbFrBdIxBtSg8r5f8A1JyLROXvBgX5Fxn1KYelRLfrNjNzAXWC3xtkluRGZz_M9IhLktBpyR2VS3EZ6ejfGOUuLp-ribPloNTitJ6JnAMnWVrpum4esCHshHta7rNFOzgtRfmjR6vuKGdgFGhzp3G7UC345pfdJDeyE2WvbZV0OLVFkLkVB7Y5VmHRU1sDdiqILWkMFctLMuvAqlt4O2Yjag.JiCc6j3pkFDR2wcvbIXtuEeGkX9y7eKbdSci0TXZzZA&dib_tag=se&keywords=ux+design&qid=1721172833&sprefix=us+design%2Caps%2C370&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+            "description": "Laws of UX based on human psychology."
+          }
+        ]
+      },
+      {
+        "section": "Curriculums",
+        "resources": [
+          {
+            "title": "App Academy Syllabus",
+            "url": "https://my.appacademy.io/syllabus/fe9394ee-614c-44ab-87de-8a429e6daa41",
+            "description": "App Academy coding syllabus"
+          },
+          {
+            "title": "App Academy Open",
+            "url": "https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open",
+            "description": "Free coding curriculum from App Academy"
+          },
+          {
+            "title": "The Odin Project",
+            "url": "https://www.theodinproject.com/",
+            "description": "Free full stack curriculum"
+          },
+          {
+            "title": "Full Stack Open",
+            "url": "https://fullstackopen.com/en/",
+            "description": "Open source full stack curriculum"
+          },
+          {
+            "title": "C0D3 Curriculum",
+            "url": "https://www.c0d3.com/",
+            "description": "Free full stack curriculum"
+          }
+        ],
+        "books": [
+          {
+            "title": "Book A",
+            "url": "link",
+            "description": "Description of Book A"
+          },
+          {
+            "title": "Book B",
+            "url": "link",
+            "description": "Description of Book B"
+          },
+          {
+            "title": "Book C",
+            "url": "link",
+            "description": "Description of Book C"
+          }
+        ]
+      },
+      {
+        "section": "Entrepreneurship",
+        "resources": [
+          {
+            "title": "37 Signals",
+            "url": "https://37signals.com/",
+            "description": "Principles of work and working for companies."
+          },
+          {
+            "title": "What is a Business Playbook",
+            "url": "https://trainual.com/manual/what-is-a-business-playbook-and-how-to-use-it-to-scale",
+            "description": "Learn the importance of having a Business Playbook."
+          },
+          {
+            "title": "Business Strategy Hub",
+            "url": "https://bstrategyhub.com/",
+            "description": "Learn business strategies from this website."
+          }
+        ],
+        "books": [
+          {
+            "title": "Introduction to Design Thinking for UX Beginners",
+            "url": "https://www.amazon.com/",
+            "description": "Book that teacher you how to think like a UX designer."
+          },
+          {
+            "title": "Introduction to Design Thinking for UX Beginners",
+            "url": "https://www.amazon.com/",
+            "description": "Book that teacher you how to think like a UX designer."
+          },
+          {
+            "title": "Introduction to Design Thinking for UX Beginners",
+            "url": "https://www.amazon.com/",
+            "description": "Book that teacher you how to think like a UX designer."
+          }
+        ]
+      }
+    ]
+  }
+]

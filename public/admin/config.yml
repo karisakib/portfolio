@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: karisakib/pixelprysm # Path to your GitHub repository
+  repo: karisakib/portfolio # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
   commit_messages:
     create: Create {{collection}} “{{slug}}”
@@ -10,7 +10,7 @@ backend:
     deleteMedia: Delete “{{path}}”
     openAuthoring: "{{message}}"
 
-site_url: https://pixelprysm.com
+site_url: https://karisakib.com
 logo_url: https://pixelprysm.com/images/logoBlack.svg
 slug:
   encoding: "ascii"
