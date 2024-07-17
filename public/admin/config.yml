@@ -3,11 +3,11 @@ backend:
   repo: karisakib/portfolio # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
   commit_messages:
-    create: Create {{collection}} “{{slug}}”
-    update: Update {{collection}} “{{slug}}”
-    delete: Delete {{collection}} “{{slug}}”
-    uploadMedia: Upload “{{path}}”
-    deleteMedia: Delete “{{path}}”
+    create: Create - {{collection}} - "{{slug}}"
+    update: Update - {{collection}} - "{{slug}}"
+    delete: Delete - {{collection}} - "{{slug}}"
+    uploadMedia: Upload - "{{path}}"
+    deleteMedia: Delete - "{{path}}"
     openAuthoring: "{{message}}"
 
 site_url: https://karisakib.com/
@@ -16,13 +16,20 @@ slug:
   encoding: "ascii"
   clean_accents: true
   sanitize_replacement: "-"
-media_folder: "static/images/uploads"
+
+media_folder: "content/static/images/uploads"
+public_folder: "/images/uploads"
+
 media_library:
   name: cloudinary
+  config:
+    cloud_name: your-cloud-name
+    api_key: your-api-key
+    api_secret: your-api-secret
 
 collections:
   - label: "Pages"
-    name: "pages"
+    name: "Pages"
     files:
       - label: "Home Page"
         name: "home"
@@ -49,15 +56,14 @@ collections:
             fields:
               - { label: Name, name: name, widget: string }
               - { label: Address, name: address, widget: string }
-  - name: Blog
-    label: Blog
-    extension: "json"
-    folder: content/blog
-    media_folder: "static/images/uploads"
-    media_library:
-      name: blog_posts
+
+  - label: "Blog"
+    name: "Blog"
+    folder: "content/blog"
     create: true
     slug: "{{slug}}"
+    media_folder: "content/static/images/uploads"
+    public_folder: "/images/uploads"
     filter: { field: visibleInCMS, value: true }
     fields:
       - { name: title, widget: string }
