@@ -2,19 +2,27 @@ import CMS from 'decap-cms-app';
 
 // Register an event listener for entry creation
 CMS.registerEventListener({
-  name: 'entryDraftCreate',
+  name: 'preSave',
   handler: ({ entry }) => {
-    console.log('New entry created:', entry);
+   console.log(entry.get('slug'));
+   const titleSlug = entry.getIn(['data', 'title'], '').toLowerCase().replace(/[']/g, '').replace(/[.]/g, '-').replace(/[\s]/g, '-')
+   const slug = entry.get('data').set('slug', titleSlug);
+   console.log(slug);
   }
 });
 
-// Register an event listener for entry update
-CMS.registerEventListener({
-  name: 'entryDraftUpdate',
-  handler: ({ entry }) => {
-    console.log('Entry updated:', entry);
-  }
-});
+// CMS.registerEventListener({
+//  name: 'preSave',
+//  handler: ({ entry }) => {
+//   if (entry.get('slug')) {
+//     return entry.get('data').set('titleslug', entry.get('slug'));
+//   } else {
+//     // you can use any relevant field/logic for generating the initial slug
+//     const titleSlug = entry.getIn(['data', 'title'], '').toLowerCase().replace(/[']/g, '').replace(/[.]/g, '-').replace(/[\s]/g, '-')
+//     return entry.get('data').set('titleslug', titleSlug);
+//   }
+//  },
+// });
 
 // Initialize CMS
 CMS.init();
