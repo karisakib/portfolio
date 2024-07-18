@@ -77,8 +77,6 @@ collections:
         widget: list
         field:
           - { label: Paragraph, name: paragraph, widget: text }
-          - { label: Paragraph, name: paragraph, widget: text }
-          - { label: Paragraph, name: paragraph, widget: text }
-          - { label: Paragraph, name: paragraph, widget: text }
-          - { label: Paragraph, name: paragraph, widget: text }
+          - { label: Code Block, name: code_block, widget: code, required: false }
+          - { label: Section Image, name: image, widget: "image", required: false }
 
