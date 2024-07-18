@@ -1,3 +1,5 @@
 {
- "key": "value"
+  "key": "value",
+  "title": "About Page Title",
+  "intro": "About Page Title"
 }
