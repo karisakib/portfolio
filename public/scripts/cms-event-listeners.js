@@ -1,32 +1,31 @@
-// import CMS from 'decap-cms-app';
+// This global flag enables manual initialization.
+window.CMS_MANUAL_INIT = true;
 
-// // Register an event listener for entry creation
-// CMS.registerEventListener({
-//   name: 'preSave',
-//   handler: ({ entry }) => {
-//    console.log(entry.get('slug'));
-//    const titleSlug = entry.getIn(['data', 'title'], '').toLowerCase().replace(/[']/g, '').replace(/[.]/g, '-').replace(/[\s]/g, '-')
-//    const slug = entry.get('data').set('slug', titleSlug);
-//    console.log(slug);
-//   }
-// });
+// Usage with import from npm package
+import CMS from 'decap-cms-app';
 
-// // CMS.registerEventListener({
-// //  name: 'preSave',
-// //  handler: ({ entry }) => {
-// //   if (entry.get('slug')) {
-// //     return entry.get('data').set('titleslug', entry.get('slug'));
-// //   } else {
-// //     // you can use any relevant field/logic for generating the initial slug
-// //     const titleSlug = entry.getIn(['data', 'title'], '').toLowerCase().replace(/[']/g, '').replace(/[.]/g, '-').replace(/[\s]/g, '-')
-// //     return entry.get('data').set('titleslug', titleSlug);
-// //   }
-// //  },
-// // });
+// Function to generate slug from title
+const generateSlug = (title) => {
+  return title
+    .toLowerCase()
+    .replace(/ /g, '-')
+    .replace(/[^\w-]+/g, '');
+};
 
+// Register the preSave event listener
+CMS.registerEventListener({
+  name: 'preSave',
+  handler: ({ entry }) => {
+    // Get the title from the entry
+    const title = entry.getIn(['data', 'title']);
+    
+    // Generate the slug
+    const slug = generateSlug(title);
 
-// /**
-//  * I HAVE NO IDEA WHY THIS IS CAUSING ISSUES
-//  */
-// // Initialize CMS
-// CMS.init({config:"/admin/config.yml"});
+    // Set the slug in the entry data
+    return entry.get('data').set('slug', slug);
+  }
+});
+
+// Initialize CMS
+// CMS.init({ config: "../admin/config.yml" });
