@@ -1,3 +1,6 @@
 {
- "key": "value"
+  "key": "value",
+  "title": "Home Page Title",
+  "intro": "Home Page Intro",
+  "team": []
 }
