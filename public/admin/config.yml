@@ -74,7 +74,7 @@ collections:
       - { label: Date, name: date, widget: datetime, date_format: "MMMM D, YYYY" }
       - label: Paragraphs
         name: paragraphs
-        widget: list
+        widget: object
         field:
           - { label: Paragraph, name: paragraph, widget: text }
           - { label: Code Block, name: code_block, widget: code, required: false }
