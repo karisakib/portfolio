@@ -90,6 +90,8 @@ Blog posts are stored as JSON objects in the content folder. Each post contains 
     "This is the second paragraph of my blog post."
   ]
 }
+```
+
 ### Books
 Books I've read are organized into categories and stored in JSON format, making it easy to update and display.
 
