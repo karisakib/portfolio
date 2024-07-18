@@ -1,0 +1,12 @@
+{
+ "slug": "clean-code",
+ "date": "July 17, 2024",
+ "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+ "author": "Robert C. Martin",
+ "review": "Clean Code is a must-read for any developer who cares about writing quality code. The book provides practical advice on how to write clean, readable, and maintainable code.",
+ "notes": [
+   "Functions should be small and do one thing only.",
+   "Meaningful names are crucial for code readability.",
+   "Code should be simple and straightforward."
+ ]
+}
