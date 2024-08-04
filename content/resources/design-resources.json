@@ -1,37 +1,38 @@
 {
- "section": "Design",
- "resources": [
-   {
-     "title": "A List Apart",
-     "url": "https://alistapart.com/",
-     "description": "Explores the design, development, and meaning of web content, with a special focus on web standards and best practices."
-   },
-   {
-     "title": "Smashing Magazine",
-     "url": "https://www.smashingmagazine.com/",
-     "description": "An online magazine for professional web designers and developers, with a focus on useful techniques, best practices, and valuable resources."
-   },
-   {
-     "title": "Behance",
-     "url": "https://www.behance.net/",
-     "description": "A platform to showcase and discover creative work, featuring a variety of design projects and portfolios."
-   }
- ],
- "books": [
-   {
-     "title": "Design of Everyday Things",
-     "url": "https://booklink.com/design-of-everyday-things",
-     "description": "A classic book on design by Don Norman."
-   },
-   {
-     "title": "Don't Make Me Think",
-     "url": "https://booklink.com/dont-make-me-think",
-     "description": "A common sense approach to web usability by Steve Krug."
-   },
-   {
-     "title": "Hooked: How to Build Habit-Forming Products",
-     "url": "https://booklink.com/hooked",
-     "description": "A guide to creating products that people love by Nir Eyal."
-   }
- ]
+  "section": "Design",
+  "resources": [
+    {
+      "title": "A List Apart",
+      "url": "https://alistapart.com/",
+      "description": "Explores the design, development, and meaning of web content, with a special focus on web standards and best practices."
+    },
+    {
+      "title": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/",
+      "description": "An online magazine for professional web designers and developers, with a focus on useful techniques, best practices, and valuable resources."
+    },
+    {
+      "title": "Behance",
+      "url": "https://www.behance.net/",
+      "description": "A platform to showcase and discover creative work, featuring a variety of design projects and portfolios."
+    }
+  ],
+  "books": [
+    {
+      "title": "Design of Everyday Things",
+      "url": "https://booklink.com/design-of-everyday-things",
+      "description": "A classic book on design by Don Norman."
+    },
+    {
+      "title": "Don't Make Me Think",
+      "url": "https://booklink.com/dont-make-me-think",
+      "description": "A common sense approach to web usability by Steve Krug."
+    },
+    {
+      "title": "Hooked: How to Build Habit-Forming Products",
+      "url": "https://booklink.com/hooked",
+      "description": "A guide to creating products that people love by Nir Eyal."
+    }
+  ],
+  "section_header": "My Resources"
 }
